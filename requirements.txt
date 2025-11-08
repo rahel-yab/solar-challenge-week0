@@ -3,5 +3,5 @@ pandas
 matplotlib
 requests
 flask
-matplotlib.pyplot
+matplotlib
 scipy
