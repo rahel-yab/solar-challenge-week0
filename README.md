@@ -48,5 +48,5 @@ pip install -r requirements.txt
 
 ---
 
-Notes
+Note
 - Ensure CSVs used by notebooks are present under raw_data/.
